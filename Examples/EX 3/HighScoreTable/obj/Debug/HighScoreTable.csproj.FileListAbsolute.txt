@@ -1,0 +1,14 @@
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csprojAssemblyReference.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+C:\Users\marty\Documents\PG1\Working\FSO Version\Practicals\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe.config
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.exe
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\bin\Debug\HighScoreTable.pdb
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.AssemblyReference.cache
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.csproj.CoreCompileInputs.cache
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.exe
+D:\Full Sail\Programming 1\Zips\HighScoreTable\HighScoreTable\obj\Debug\HighScoreTable.pdb

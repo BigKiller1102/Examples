@@ -1,0 +1,7 @@
+D:\Full Sail\programers choice\bin\Debug\programers choice.exe.config
+D:\Full Sail\programers choice\bin\Debug\programers choice.exe
+D:\Full Sail\programers choice\bin\Debug\programers choice.pdb
+D:\Full Sail\programers choice\obj\Debug\programers choice.csproj.AssemblyReference.cache
+D:\Full Sail\programers choice\obj\Debug\programers choice.csproj.CoreCompileInputs.cache
+D:\Full Sail\programers choice\obj\Debug\programers choice.exe
+D:\Full Sail\programers choice\obj\Debug\programers choice.pdb
